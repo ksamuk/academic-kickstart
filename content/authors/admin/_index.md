@@ -82,7 +82,7 @@ I am also passionate about the positive role of computer software in reproducibl
 
 I am currently a Postdoctoral Associate in Mohamed Noor's lab at Duke University.
 
-<p style="color:black;font-weight: bold"> NEW: In July 2021, I will be starting as an Assistant Professor in the Department of Ecology, Evolution, and Organismal Biology at the University of California, Riverside.
+<p style="color:black;font-weight: bold">In July 2021, I will be starting as an Assistant Professor in the Department of Ecology, Evolution, and Organismal Biology at the University of California, Riverside.
 </br></br>
 My research group will focus on the evolutionary genomics of adaptation and speciation, with a special interest in the role of recombination rate variation. 
 </br></br>
